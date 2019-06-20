@@ -1,1 +1,18 @@
-Replace this with a list of your favorite things.
+***Countries I've Visited So Far***
+
+* England
+* Scotland
+* Ireland
+* Northern Ireland
+* Iceland
+* Belgium
+* Netherlands
+* Germany
+* Austria
+* Italy
+* France
+* Mexico
+
+**Soon to Visit!**
+* Peru
+* Egypt
